@@ -17,3 +17,7 @@ Tecnologias utilizadas
 
 Modo escuro:
 ![imagem_desafio_links](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/6ef38334-c66b-4697-b16e-db3ec08d7435)
+
+Modo claro:
+![Img_modoClaro](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/c81d9e4c-9750-40c9-a3e8-e9853bf040de)
+
