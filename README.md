@@ -16,8 +16,12 @@ Tecnologias utilizadas
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Modo escuro:
-![imagem_desafio_links](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/6ef38334-c66b-4697-b16e-db3ec08d7435)
+
+![Img_escuro](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/c68b54eb-b578-4b91-a47e-a8cb9ee38905)
 
 Modo claro:
-![Img_modoClaro](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/c81d9e4c-9750-40c9-a3e8-e9853bf040de)
+
+![Img_claro](https://github.com/MiqueasL/Desafio_HTML_CSS_JavaScript/assets/114825728/cd03e3ab-1e6e-4fee-970e-eb79cf90d5fb)
+
+
 
